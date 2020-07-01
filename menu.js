@@ -28,7 +28,7 @@ var menuState = {
                                               setTimeout(function(){  fb_3 = game.add.sprite(0,0,'fb_3');
                                                  setTimeout(function(){  slide_3 = game.add.sprite(0,0,'slide_3');
                                                     setTimeout(function(){  game.state.start('level1');
-                                                  }  , 7000);
+                                                  }  , 2000);
                                                }  , 7000);
                                              } , 7000);
                                            }, 7000);
