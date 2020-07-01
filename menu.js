@@ -28,11 +28,11 @@ var menuState = {
                                               setTimeout(function(){  fb_3 = game.add.sprite(0,0,'fb_3');
                                                  setTimeout(function(){  slide_3 = game.add.sprite(0,0,'slide_3');
                                                     setTimeout(function(){  game.state.start('level1');
-                                                  }  , 2000);
-                                               }  , 2000);
-                                             } , 2000);
-                                           }, 2000);
-                                         }, 4000);
+                                                  }  , 4000);
+                                               }  , 4000);
+                                             } , 4000);
+                                           }, 4000);
+                                         }, 5000);
 
                                      });
 
